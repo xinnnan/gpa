@@ -11,7 +11,7 @@ body {
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #619fbe;
     color: #ffffff;
 }
 
@@ -20,7 +20,7 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.header h1 .service {
     color: #d9dcd6;
 }
 
@@ -54,7 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/Picking-banner.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -134,7 +134,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+.ticketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -143,7 +143,7 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
+.product {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -152,7 +152,7 @@ p {
     color: #ffffff;
 }
 
-.social-media-marketing {
+.supporttools {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -161,29 +161,29 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.ticketing img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+.product img {
     max-height: 200px;
 }
 
-.social-media-marketing img {
+.supporttools img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.ticketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
+.product h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.social-media-marketing h2 {
+.supporttools h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
